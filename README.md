@@ -7,7 +7,7 @@
   * [Conhecimentos Adquiridos](#conhecimentos-adquiridos)
     * [Geral](#geral)
     * [Métodos do TypeScript](#métodos-do-typescript)
-    * [Métodos de estilização no CSS](#métodos-de-estilização-no-css)
+    * [Métodos de estilização do StyledComponents](#métodos-de-estilização-do-StyledComponents)
   * [Curiosidade](#curiosidade)
   * [Tecnologias](#tecnologias)
 
@@ -17,9 +17,7 @@ Esse é o segundo projeto apresentado na formação ReactJS do curso da Rocketse
 
 # Exposição do projeto
 
-  <img src="./src/assets/img-readme/layout.gif">
-
-  <img src="./src/assets/img-readme/layout-responsive.png">
+  <img src="./src/assets/gif-layout-desktop.gif">
 
 # Conhecimentos Adquiridos
 
@@ -74,7 +72,7 @@ Essa linha de código foi criada para poder exibir as propriedades do nosso defa
 
 ## Curiosidade
 
-Estou bastante entusiasmando em estudar com o professor Diego Fernandes, sua nível de conhecimento técnico é muito incrível, e ensina muito bem!
+A explicação sobre o Reducer foi complexa mas bastante produtiva, tenho certeza que irei revisar o conceito nos exemplos apresentados pelo Diego.
 
 ## Tecnologias
 
